@@ -11,7 +11,7 @@ Leggere il contenuto di un file e con un menù svolgere le seguenti azioni:
 2. Decripta il contenuto
 3. Stampa il contenuto
 
-Dettagli implementativi:
+Dettagli implementativ i:
 1. Cripta:
     a. leggo dal file
     b. cripto a con l'algoritmo di CESARE
